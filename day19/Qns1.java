@@ -1,3 +1,4 @@
+//Count Pair With Given Sum
 import java.util.*;
 
 public class Qns1 {
