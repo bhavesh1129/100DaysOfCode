@@ -1,4 +1,4 @@
-//Find Common Elements In Sorted Array
+//Find Common Elements In An Sorted Array
 import java.util.*;
 
 public class Qns5 {

@@ -1,4 +1,4 @@
-//Subarray with Sum Zero
+//Subarray With Sum Zero
 import java.util.*;
 
 public class Qns2 {
