@@ -1,10 +1,13 @@
-# 100DaysOfCode
+# #100DaysOfCode
 
 <a href="https://dev.to/bhavesh1129">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhavesh Garg's DEV Profile" height="30" width="30">
 </a>
 
-| Days | Link |
+**As to be a good programmer	:man_technologist:, the most important skill someone need is his/her Coding :computer: and Programming Skills:star_struck:.  
+So, I started revised JAVA page_with_curl: concept to start with hands-on practice with writing codes	:writing_hand: and uploads them on :octocat:.**
+
+| Days | Links |
 | :---:   | :-: |
 | Day1 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day1 |
 | Day2 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day2 |
