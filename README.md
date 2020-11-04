@@ -5,7 +5,7 @@
 </a>
 
 **As to be a good programmer	:man_technologist:, the most important skill someone need is his/her Coding :computer: and Programming Skills:star_struck:.  
-So, I started revised JAVA page_with_curl: concept to start with hands-on practice with writing codes	:writing_hand: and uploads them on :octocat:.**
+So, I started revised JAVA :page_with_curl: concept to start with hands-on practice with writing codes	:writing_hand: and uploads them on :octocat:.**
 
 | Days | Links |
 | :---:   | :-: |
