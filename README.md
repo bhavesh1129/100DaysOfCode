@@ -39,3 +39,4 @@ So, I started revised JAVA :page_with_curl: concept to start with hands-on pract
 | Day28 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day28 |
 | Day29 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day29 |
 | Day30 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day30 |
+| Day31 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day31 |
