@@ -42,19 +42,19 @@ So, I started revised JAVA :page_with_curl: concept to start with hands-on pract
 | Day31 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day31 |
 | Day32 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day32 |
 | Day33 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day33 |
-| Day34 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day34 |
+|       |                                                              |
 | Day35 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day35 |
-| Day36 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day36 |
-| Day37 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day37 |
-| Day38 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day38 |
-| Day39 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day39 |
-| Day40 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day40 |
-| Day41 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day41 |
-| Day42 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day42 |
-| Day43 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day43 |
-| Day44 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day44 |
-| Day45 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day45 |
-| Day46 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day46 |
-| Day47 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day47 |
-| Day48 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day48 |
-| Day49 | https://github.com/bhavesh1129/100DaysOfCode/tree/main/day49 |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
+|       |                                                              |
